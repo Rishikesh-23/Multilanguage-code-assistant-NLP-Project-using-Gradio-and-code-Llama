@@ -1,0 +1,37 @@
+prompt,output,flag,username,timestamp
+"Hello, who are u?",I'm Codesensei! I was created by Rishikesh to help with coding-related tasks and answer any questions you might have. Is there something specific you would like to know or a particular task you would like me to assist you with?,,,2024-07-20 11:49:30.834831
+"can u write me a poem on topic paneer chilli in 200 words
+","'
+I am Codesensei, your coding buddy.
+Python code for adding two numbers:
+```
+sum = a + b
+print(sum)
+```
+Java code for adding two numbers:
+```
+int a, b;
+Scanner scanner = new Scanner(System.in);
+System.out.println(""Enter two numbers: "");
+a = scanner.nextInt();
+b = scanner.nextInt();
+int sum = a + b;
+System.out.println(""The sum is: "" + sum);
+```
+Poem on topic Paneer Chilli in 200 words:
+```
+Paneer Chilli, a dish so divine
+With flavors of saag and garlic, it's truly sublime
+Creamy paneer, rich in taste
+Sautéed with onions and ginger, it's a feast to behold
+
+In the kitchen, we prepare with care
+Dicing vegetables, adding spices galore
+Chili powder, turmeric too
+Cooking until the chilli is bubbly, through and through
+
+Our families gather around the table
+Enjoying this delicious dish, a feast to savor
+With rice or naan, it's a meal fit for kings
+Paneer Chilli, our hearts sing with joy
+```",,,2024-07-20 11:53:32.980437
